@@ -25,19 +25,38 @@
 <h3 align="center">:desktop_computer:	Tecnologias</h3>
 <br>
 <div align="center">
+  
 <h4>:small_orange_diamond: Front-end<h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80px">
-<img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" width="80px">
-<img src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" width="80px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80px">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" width="80px">
+  <img src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" width="80px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="80px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="80px">
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg" width="80px">
+  
 <h4>:small_orange_diamond: Back-end<h4>
-<img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
-<img src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor" width="80px">
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
-<img src="imagens/Machine.png" width="68px">
+  <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
+  
 <h4>:small_orange_diamond: Banco de dados<h4>
-<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
-</div>
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
+
+ <h4>:small_orange_diamond:Tecnologias em Desenvolvimento<h4>
+   <img src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor" width="80px">
+   <img src="imagens/Machine.png" width="68px">
+   <img src="imagens/Puppeteer.png" width="60px">
+   <img src="imagens/Scrapy.png" width="80px">
+   
+ <h4>:small_orange_diamond: Ferramentas<h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="80px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="80px"> 
+
+ 
+ </div>
 
 ##
 
